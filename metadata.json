@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Cooperative Management System",
+  "description": "A comprehensive web-based cooperative management system featuring secure role-based access control (RBAC), savings management, loan applications and processing, automated dividend computation, transaction ledgers, interactive inquiry tracking, and rich reports and dashboards for members, staff, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
